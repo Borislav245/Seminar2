@@ -1,0 +1,42 @@
+body{
+    background-color: Light grey;
+}
+
+.okenka{
+    margin: 16px;
+    background-color: yellowgreen;
+    padding: 16;
+    border-radius: 16px;
+    border: 5px outset black
+}
+
+#Text1{
+    color: white;
+    text-align: right;
+}
+#Text2{
+    color: blue;
+    text-align: justify;
+}
+#Text3{
+    color: gold;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+header{
+    background-color: rgb(32, 197, 197);
+    width: 100%;
+    padding: 16px;
+}
+h3{
+   background-color: rgb(155, 39, 39);
+   margin: 0;
+   padding: 15px;
+   text-align: center;
+}
+footer{
+    background-color: yellowgreen;
+    padding: 20px;
+} 
